@@ -1,0 +1,1 @@
+export const RECEIVE_BLOG_POSTS = 'RECEIVE_BLOG_POSTS';
